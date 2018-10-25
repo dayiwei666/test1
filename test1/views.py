@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 
 def user_view(request):
-    return HttpResponse('123')
+    return HttpResponse('13')
